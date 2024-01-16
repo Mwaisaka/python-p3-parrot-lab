@@ -4,4 +4,5 @@ def parrot(name="Squawk!"):
         return name
     elif(name==""):
         print ("Squawk!")
+        return "Squawk!"
 
